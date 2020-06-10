@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>Cutout Summer</dc:title>
+<dc:creator>Nicola Magri</dc:creator>
+<dc:subject class="BT">Pain</dc:subject>
+<dc:subject class="NT">Escape </dc:subject>
+<dc:subject class="NT">Summer</dc:subject>
+<dcterms:abstract>This memory is provided by Nicola Magri. He is an illustrator and he wants to show the his expectations about summer 2020 during the COVID-19 emergency. </dcterms:abstract>
+<dc:description>L'illustrazione racconta un modo di vivere l'estate 2020: tra spiagge semi-vuote popolate solo dall'immaginazione di chi ha la possibilità di andarci veramente.
+				 The illustration tells a way of living the summer 2020: between semi-empty beaches populated only by the imagination of those who have the opportunity to really go there.
+</dc:description>
+<dc:publisher>IMOW - In My Own Words</dc:publisher>
+<dc:publisher>Github</dc:publisher>
+<dc:date xsi:type="dcterms:W3CDTF">May 2020</dc:date>
+<dc:type>Image</dc:type>
+<dc:type>Graphic llustration</dc:type>
+<dc:format>jpg</dc:format>
+<dc:language>It</dc:language>
+<dc:language>En</dc:language>
+<dcterms:isPartOf>Stories of Effort</dcterms:isPartOf>
+<dc:rights>Every right issues about the website and its content are specified in the Privacy Policy dedicated page that you can consult here </dc:rights>
+<dcterms:rightsholder>Every right issues about the website and its content are specified in the Privacy Policy dedicated page that you can consult here </dcterms:rightsholder>
+
+</metadata>

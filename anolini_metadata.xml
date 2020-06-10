@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>Made with love... and taste</dc:title>
+<dc:creator>Martina Boiardi </dc:creator>
+<dc:subject class="BT">Love</dc:subject>
+<dc:subject class="NT">Food </dc:subject>
+<dc:subject class="NT">Handmade pasta</dc:subject>
+<dcterms:abstract>This memory is provided by Martina Boiardi. She wants to show a classic italian moment of sharing love: preparing handmade pasta</dcterms:abstract>
+<dc:description>Il coronavirus ci ha tolto molte cose, ma agli italiani niente e nessuno potrà mai togliere il buon cibo e il gusto di prepararlo!
+Questo è un piatto tipico della tradizione emiliana, e in particolare piacentina. Noi lo chiamiamo "anolino", ed è il cibo delle festività. Durante la quarantena, un grande sfogo è stata la possibilità di preparare dei piatti fatti a mano. Io e la mia famiglia ci siamo divertiti a fare questo!</dc:description>
+<dc:description>The coronavirus has taken away many things, but nothing and no one can ever take away good food and the taste of preparing it from Italians!
+This is a typical dish of the Emilian tradition, and in particular of Piacenza. We call it "anolino", and it's the festivities food. During the quarantine, a great outlet was the opportunity to prepare handmade dishes. My family and I had fun doing this!</dc:description>
+<dc:publisher>IMOW - In My Own Words</dc:publisher>
+<dc:publisher>Github</dc:publisher>
+<dc:date xsi:type="dcterms:W3CDTF">27-03-2020</dc:date>
+<dc:type>Image</dc:type>
+<dc:format>jpg</dc:format>
+<dc:source>User Provided</dc:source>
+<dc:language>It</dc:language>
+<dc:language>En</dc:language>
+<dcterms:isPartOf>Love</dcterms:isPartOf>
+<dc:rights>Every right issues about the website and its content are specified in the Privacy Policy dedicated page that you can consult here </dc:rights>
+<dcterms:rightsholder>Every right issues about the website and its content are specified in the Privacy Policy dedicated page that you can consult here </dcterms:rightsholder>
+
+</metadata>
