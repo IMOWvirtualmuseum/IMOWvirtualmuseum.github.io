@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>Quarantena e Festa del Papà</dc:title>
+<dc:creator>Veronica Mascia</dc:creator>
+<dc:subject class="BT">Celebrations</dc:subject>
+<dc:subject class="NT">Time</dc:subject>
+<dc:subject class="NT">Blog post</dc:subject>
+<dcterms:abstract>This is a post written by Veronica Mascia on her blog "Due cuori e una coperta". She decided to open this blog to write about her experience of being pregnant during quarantine.</dcterms:abstract>
+<dc:description>"Due cuori e una coperta" è un blog di sfogo nato a pochi giorni dall'inizio della quarantena nazionale.
+Cercavo un bambino o forse no, sta di fatto che il 15 Marzo il test è risultato positivo e mentre il mio cervello esplodeva di pensieri si è fatto il 19 Marzo ed era la Festa del papà. 
+Le donne diventano madri appena il test diventa positivo, ma quando diventano padri gli uomini? Per me solo quando il bambino viene al mondo e può proteggerlo tra le sue braccia.
+</dc:description>
+<dc:description>“Due cuori e una coperta” is a blog to escape and let off steam, born few days before the quarantine started. 
+I wanted a child, or maybe not, the fact is that on March 15th the pregnancy test was positive; while my brain was full of thoughts, March 19th came and so the Father’s Day. Women become mothers when the pregnancy test results as positive, ma when do the men become fathers? In my opinion, only when the child come into this world and they can hold and protect their child into their arms.</dc:description>
+<dc:publisher>IMOW - In My Own Words</dc:publisher>
+<dc:publisher>Github</dc:publisher>
+<dc:date xsi:type="dcterms:W3CDTF">19-03-2020</dc:date>
+<dc:type>Text</dc:type>
+<dc:source>User provided</dc:source>
+<dc:language>It</dc:language>
+<dc:language>En</dc:language>
+<dcterms:isPartOf>Stories of celebrations</dcterms:isPartOf>
+<dc:rights>Every right issues about the website and its content are specified in the Privacy Policy dedicated page that you can consult here </dc:rights>
+<dcterms:rightsholder>Every right issues about the website and its content are specified in the Privacy Policy dedicated page that you can consult here </dcterms:rightsholder>
+
+</metadata>

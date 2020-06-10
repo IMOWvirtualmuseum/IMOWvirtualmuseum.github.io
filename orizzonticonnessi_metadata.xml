@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>Orizzonti... connessi</dc:title>
+<dc:creator>Noemi Giammarco </dc:creator>
+<dc:subject class="BT">Love</dc:subject>
+<dc:subject class="NT">Poetry</dc:subject>
+<dcterms:abstract>This poem is written by Noemi Giammarco. It is part of a collection written during quarantine.</dcterms:abstract>
+<dc:description>This poem can be considered as part of a collection of poems, an outcome of all the feelings experienced as a result of moving from South Italy to Milan, almost at the same time of lockdown. In my poems live many feelings and thoughts: some things really experienced in my life and some fantasies.</dc:description>
+<dc:description>Questa poesia si può considerare come parte di una raccolta di poesie, risultato di tutto ciò che ho provato dopo essermi trasferita dal sud Italia a Milano, quasi contemporaneamente al lockdown. Nelle mie poesie vivono diversi sentimenti e pensieri: alcune cose realmente vissute e alcune fantasie.</dc:description>
+<dc:publisher>IMOW - In My Own Words</dc:publisher>
+<dc:publisher>Github</dc:publisher>
+<dc:date xsi:type="dcterms:W3CDTF">05-04-2020</dc:date>
+<dc:type>Text</dc:type>
+<dc:source>User Provided</dc:source>
+<dc:language>It</dc:language>
+<dc:language>Eng</dc:language>
+<dcterms:isPartOf>Love</dcterms:isPartOf>
+<dc:coverage>Every right issues about the website and its content are specified in the Privacy Policy dedicated page that you can consult here </dc:coverage>
+<dc:rights>Every right issues about the website and its content are specified in the Privacy Policy dedicated page that you can consult here </dc:rights>
+
+</metadata>

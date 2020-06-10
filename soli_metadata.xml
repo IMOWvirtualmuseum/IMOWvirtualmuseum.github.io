@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>Soli sempre</dc:title>
+<dc:creator>Alfonso Orientale Caputo</dc:creator>
+<dc:subject class="BT">Pain</dc:subject>
+<dc:subject class="NT">Short story </dc:subject>
+<dc:subject class="NT">Loneliness</dc:subject>
+<dcterms:abstract>This is a short story written by Alfonso Orientale Caputo about loneliness.</dcterms:abstract>
+<dc:description>Questo piccolo testo è il frutto di alcuni cambiamenti che sono avvenuti nella mia vita durante la quarantena. L'isolamento mi ha portato a fare alcune considerazioni sulla condizione di solitudine che potrebbe affliggere chiunque. Stavolta è toccato a me.</dc:description>
+<dc:description>This text derives from some changes that have occurred in my life during quarantine. Isolation made me think about the condition of loneliness that could experience everyone. This time, I lived this loneliness.</dc:description>
+<dc:publisher>IMOW - In My Own Words </dc:publisher>
+<dc:publisher>Github</dc:publisher>
+<dc:date xsi:type="dcterms:W3CDTF">02-05-2020</dc:date>
+<dc:type>Text</dc:type>
+<dc:source>User Provided</dc:source>
+<dc:language>It</dc:language>
+<dc:language>En</dc:language>
+<dcterms:isPartOf>Pain</dcterms:isPartOf>
+<dc:rights>Every right issues about the website and its content are specified in the Privacy Policy dedicated page that you can consult here</dc:rights>
+<dcterms:rightsholder>Every right issues about the website and its content are specified in the Privacy Policy dedicated page that you can consult here</dcterms:rightsholder>
+
+</metadata>
